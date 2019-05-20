@@ -1,2 +1,4 @@
 # Hello-world
-New project
+My new project in which I am trying to learn some stuff.
+:)
+
